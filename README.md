@@ -49,7 +49,11 @@ snRNAs sometimes have the number of loci across the genome.  Because of that we 
 For example:
 
 NC_005089.1    pirnadb_v1_7_6    exon    2409    2432    .    +    .    transcript_id "mmu-piR-1563"; transcript_copy_id "mmu-piR-1563_1"; sequence "ACAATTAGGGTTTACGACCTCGA"
+
 NC_005089.1    pirnadb_v1_7_6    exon    3844    3865    .    +    .    transcript_id "mmu-piR-8131"; transcript_copy_id "mmu-piR-8131_1"; sequence "AGTAAGGTCAGCTAATTAAGC"
+
 chr2    pirnadb_v1_7_6    exon    10486586    10486608    .    +    .    transcript_id "mmu-piR-10017"; transcript_copy_id "mmu-piR-10017_1"; sequence "AGTTGTGTGTGCATGTTCATGT"
+
 chr2    pirnadb_v1_7_6    exon    10481682    10481704    .    +    .    transcript_id "mmu-piR-10017"; transcript_copy_id "mmu-piR-10017_2"; sequence "AGTTGTGTGTGCATGTTCATGT"
+
 chr2    pirnadb_v1_7_6    exon    10484140    10484162    .    +    .    transcript_id "mmu-piR-10017"; transcript_copy_id "mmu-piR-10017_3"; sequence "AGTTGTGTGTGCATGTTCATGT"
